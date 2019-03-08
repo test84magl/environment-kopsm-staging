@@ -1,4 +1,7 @@
 dependencies:
+- name: abc
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: dolphy
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.3
